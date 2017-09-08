@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WalmartListApp</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_amount">$amount</string>
+</resources>
